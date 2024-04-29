@@ -114,5 +114,3 @@ exports.deleteCourse = asyncHandler(async (req, res, next) => {
     data: {},
   });
 });
-
-
