@@ -72,5 +72,3 @@ CourseSchema.pre("remove", async function () {
 });
 
 module.exports = mongoose.model("Course", CourseSchema);
-
-
